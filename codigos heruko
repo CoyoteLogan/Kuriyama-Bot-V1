@@ -1,0 +1,9 @@
+heroku login - Loga na Host
+
+git add . - Adiciona os codigos para a transferencia
+
+git init - Para determinar a transferencia dos codigos
+
+git push heroku master - Carregar tudo para o site (Quando add um comando novo)
+
+git commit -am "kuriyamabeta" - Envia os codigos para a Host
